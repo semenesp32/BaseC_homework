@@ -30,3 +30,20 @@ _____________
 - [ ] Задача 5.3 Польская запись
 - [ ] Задача 5.4 (Двоичные нули).
 ________________
+## *Задание 6*
+- [X] [Задача 6.1 Написать функцию поедания зерна змейкой)](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/snake/snake.c)
+- [X] [Задача 6.2 Написать функцию столкновения головы с хвостом](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/snake/snake.c)
+- [X] [Задача 6.3 Проверка корректности выставления зерна](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/snake/snake.c)
+- [X] [Задача 6.4 Добавление второй змейки](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/snake/snake.c)
+- [X] [Задача 6.5 Управление для каждой змейки](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/snake/snake.c)
+- [X] [Задача 6.6 Добавление ИИ](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/snake/snake.c)
+- [X] [Задача 6.7 Режим соревнования](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/snake/snake.c)
+- [X] [Задача 6.8 Добавление цвета](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/snake/snake.c)
+______________
+## *Задание 7*
+- [X] [Задача 7.1 Отсортировать слова](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/HW7/7_1.c)
+- [X] [Задача 7.2 Вид сверху](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/HW7/7_2.c)
+- [X] [Задача 7.3 Найти брата](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/HW7/7_3.c)
+_____________
+## *Задание 8*
+- [X] [Курсовая работа](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/course_work/course_work.c)

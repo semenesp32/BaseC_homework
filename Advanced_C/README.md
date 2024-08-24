@@ -46,4 +46,4 @@ ______________
 - [X] [Задача 7.3 Найти брата](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/HW7/7_3.c)
 _____________
 ## *Задание 8*
-- [X] [Курсовая работа](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/course_work/course_work.c)
+- [X] [Курсовая работа](https://github.com/semenesp32/BaseC_homework/blob/main/Advanced_C/course_work/curse_work.c)
